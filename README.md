@@ -50,7 +50,7 @@
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/47829/989da5c2-63b5-4f4c-ab7e-887e6a43002b/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      
+      HTML + CSS Basics
     </a>
   </li>
   <li style="margin-bottom: 8px;">
