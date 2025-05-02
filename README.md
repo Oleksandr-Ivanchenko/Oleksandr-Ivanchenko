@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello! I'm Aleksandr 👋</h1>
 
-<h3 align="center">Frontend Developer | JavaScript / TypeScript / React / NextJs CSS </h3>
+<h3 align="center">Frontend Developer | JavaScript / TypeScript / React / NextJs / CSS </h3>
 
 ---
 
