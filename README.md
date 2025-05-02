@@ -40,7 +40,7 @@
 <ul style="list-style: none; padding-left: 0; font-size: 16px;">
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15300/d0f477fe-49f1-4cde-899d-3981b4724201/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      Full-time Frontend Developer Course – Mate Academy
+      JavaScript Basics
     </a>
   </li>
   <li style="margin-bottom: 8px;">
@@ -50,27 +50,27 @@
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/47829/989da5c2-63b5-4f4c-ab7e-887e6a43002b/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      JavaScript – Mate Academy
+      Git and Terminal
     </a>
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15303/96b6ce19-b0e2-4ece-93db-0364cb5d1786/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      React – Mate Academy
+      JavaScript Basics Extended
     </a>
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/47830/84521638-9cbd-4a46-b79e-d6cfe78bb459/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      TypeScript – Mate Academy
+      HTML + CSS Advanced
     </a>
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15301/a64b2377-d94e-4106-91e3-fe9e4504414d/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      Soft Skills – Mate Academy
+      TypeScript Basics
     </a>
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15302/81a1f347-777c-4fc7-b772-e7281caf1e4c/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      Git & GitHub – Mate Academy
+      How the Web Works
     </a>
   </li>
   <li style="margin-bottom: 8px;">
