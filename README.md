@@ -2,9 +2,9 @@
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">Hello! I'm Alexander 👋</h1>
+<h1 align="center">Hello! I'm Aleksandr 👋</h1>
 
-<h3 align="center">Frontend Developer | JavaScript / React / CSS </h3>
+<h3 align="center">Frontend Developer | JavaScript / TypeScript / React / NextJs CSS </h3>
 
 ---
 
