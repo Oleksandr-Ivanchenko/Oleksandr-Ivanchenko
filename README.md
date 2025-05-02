@@ -75,7 +75,7 @@
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15298/39f3da97-e32d-4a36-8355-bb20076da37a/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      Computer Science – Mate Academy
+      Object Oriented Programming
     </a>
   </li>
 </ul>
