@@ -45,12 +45,12 @@
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15299/a4613674-e66a-4ac6-8c90-8f583f3cb988/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      HTML/CSS – Mate Academy
+      Git and Terminal
     </a>
   </li>
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/47829/989da5c2-63b5-4f4c-ab7e-887e6a43002b/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-      Git and Terminal
+      
     </a>
   </li>
   <li style="margin-bottom: 8px;">
