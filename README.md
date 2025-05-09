@@ -130,15 +130,6 @@
 
 ---
 
-## [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
-Page with loading pictures and animations. Technologies used: Angular, Angular
-Material, Reactive forms, SASS, HTML5
-
-- **Live Demo:** [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
-- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/somplo-test-task))
- **Design Reference:** [Figma]((https://www.figma.com/design/Nf87SReWiw79RQEbAPml8R/test--Copy-?node-id=1405-1437))
-
-
 ## [onlineCurses](https://oleksandr-ivanchenko.github.io/onlineCurses/)
 
 This template provides a minimal setup to get React working in Vite with Hot Module Replacement (HMR), TypeScript, SCSS, BEM methodology for styling, and React Router for client-side routing.
