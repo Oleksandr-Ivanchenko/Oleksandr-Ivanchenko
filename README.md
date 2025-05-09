@@ -17,7 +17,33 @@
 
 ---
 
-### 🛠️ My technologies
+# 🚀 My Tech Stack
+
+## Frontend Development
+- **Languages:** JavaScript (ES2015-2019), TypeScript
+- **Frameworks & Libraries:** React.js, Redux Toolkit, Next.js
+- **Markup & Styling:** HTML5, BEM, CSS3/SASS, Bulma, Material
+
+## Tools & Platforms
+- **Development Tools:** Visual Studio Code, Chrome Developer Tools
+- **Version Control:** Git, GitHub, GitLab
+- **Package Managers:** NPM, NVM, PNPM, Yarn
+- **APIs & Data Formats:** JSON, Fetch
+
+## Game Development
+- **SDK Integration**
+- **Construct**
+- **Game Developer Tools**
+
+## Design & UI
+- **Figma**
+- **Photoshop**
+
+## Project Management
+- **Scrum**
+- **Kanban**
+- **Jira**
+- **Confluence**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,js,react,redux,html,css,sass,tailwind,figma,vscode" />
