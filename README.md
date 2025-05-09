@@ -129,22 +129,24 @@
 # 🔥 My Projects
 
 ---
-## [onlineCurses] (https://oleksandr-ivanchenko.github.io/onlineCurses/)
+
+## [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
+Page with loading pictures and animations. Technologies used: Angular, Angular
+Material, Reactive forms, SASS, HTML5
+
+- **Live Demo:** [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
+- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/somplo-test-task))
+ **Design Reference:** [Figma]((https://www.figma.com/design/Nf87SReWiw79RQEbAPml8R/test--Copy-?node-id=1405-1437))
+
+
+## [onlineCurses](https://oleksandr-ivanchenko.github.io/onlineCurses/)
 
 This template provides a minimal setup to get React working in Vite with Hot Module Replacement (HMR), TypeScript, SCSS, BEM methodology for styling, and React Router for client-side routing.
 
-Technologies Used:
-React: JavaScript library for building user interfaces.
-TypeScript: Strongly typed JavaScript to catch errors early.
-Vite: Next-generation front-end tool that offers fast build and development times.
-React Router: A routing library to handle navigation in single-page applications.
-SCSS: CSS preprocessor for writing styles more efficiently.
-BEM (Block Element Modifier): A methodology for writing clean and reusable CSS.
-ESLint: Linting tool to ensure code quality and consistency.
+Technologies Used: React: JavaScript library for building user interfaces. TypeScript: Strongly typed JavaScript to catch errors early. Vite: Next-generation front-end tool that offers fast build and development times. React Router: A routing library to handle navigation in single-page applications. SCSS: CSS preprocessor for writing styles more efficiently. BEM (Block Element Modifier): A methodology for writing clean and reusable CSS. ESLint: Linting tool to ensure code quality and consistency.
 
 - **Live Demo:** [onlineCurses](https://oleksandr-ivanchenko.github.io/onlineCurses/)
 - **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/onlineCurses))
-
 
 ---
 
