@@ -44,6 +44,7 @@
 - **Figma**
 - **Photoshop**
 
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,js,react,redux,html,css,sass,tailwind,figma,vscode" />
