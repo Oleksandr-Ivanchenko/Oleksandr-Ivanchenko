@@ -10,10 +10,7 @@
 
 ### 🚀 About me
 
-- 🎯 I strive to create convenient and beautiful interfaces  
-- 💻 Experience with React, TypeScript, Tailwind, Styled-components  
-- 🌱 I am constantly learning new technologies and development patterns.  
-- 🧩 I participate in pet projects
+Frontend Developer | Project Manager Experienced in building dynamic, user-friendly web applications with JavaScript, TypeScript, React, and Next.js. Passionate about creating scalable and maintainable solutions following SOLID, DRY, and KISS principles.
 
 ---
 
