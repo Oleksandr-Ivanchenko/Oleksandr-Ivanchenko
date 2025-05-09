@@ -17,11 +17,16 @@
 
 ---
 
-# 🚀 My Tech Stack
+# My Tech Stack
+
+## Backend & Development Environments
+- **Node.js**
+- **Docker**
+- **SQL**
 
 ## Frontend Development
 - **Languages:** JavaScript (ES2015-2019), TypeScript
-- **Frameworks & Libraries:** React.js, Redux Toolkit, Next.js
+- **Frameworks & Libraries:** React.js, Redux Toolkit, Next.js, Puppeteer
 - **Markup & Styling:** HTML5, BEM, CSS3/SASS, Bulma, Material
 
 ## Tools & Platforms
@@ -32,18 +37,13 @@
 
 ## Game Development
 - **SDK Integration**
-- **Construct**
+- **construct 3**
 - **Game Developer Tools**
 
 ## Design & UI
 - **Figma**
 - **Photoshop**
 
-## Project Management
-- **Scrum**
-- **Kanban**
-- **Jira**
-- **Confluence**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,js,react,redux,html,css,sass,tailwind,figma,vscode" />
