@@ -142,6 +142,8 @@ Technologies Used: React: JavaScript library for building user interfaces. TypeS
 ---
 
 ## [Pacmap Game]()
+This repository contains the core logic for Pac-Man and ghost AI behavior. It focuses on movement algorithms and pathfinding rather than full game implementation.
+
 - **Code Repository:** - https://github.com/Oleksandr-Ivanchenko/Pac-Man
 
 ---
