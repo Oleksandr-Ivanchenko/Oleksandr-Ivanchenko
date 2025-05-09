@@ -122,8 +122,6 @@ Frontend Developer | Project Manager Experienced in building dynamic, user-frien
 
 ---
 
----
-
 # 🔥 My Projects
 
 ---
