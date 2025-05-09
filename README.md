@@ -23,6 +23,7 @@
 - **Node.js**
 - **Docker**
 - **SQL**
+- **Jenkins**
 
 ## Frontend Development
 - **Languages:** JavaScript (ES2015-2019), TypeScript
