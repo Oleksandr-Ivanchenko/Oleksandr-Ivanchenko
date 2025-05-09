@@ -137,7 +137,7 @@ This template provides a minimal setup to get React working in Vite with Hot Mod
 Technologies Used: React: JavaScript library for building user interfaces. TypeScript: Strongly typed JavaScript to catch errors early. Vite: Next-generation front-end tool that offers fast build and development times. React Router: A routing library to handle navigation in single-page applications. SCSS: CSS preprocessor for writing styles more efficiently. BEM (Block Element Modifier): A methodology for writing clean and reusable CSS. ESLint: Linting tool to ensure code quality and consistency.
 
 - **Live Demo:** [onlineCurses](https://oleksandr-ivanchenko.github.io/onlineCurses/)
-- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/onlineCurses))
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/onlineCurses)
 
 ---
 
@@ -170,7 +170,7 @@ used the following technology and approaches: HTML5, SCSS, JS, React, React
 Router, Redux Toolkit, React-Redux, Material ui
 
 - **Live Demo:** [ProxyBand](https://oleksandr-ivanchenko.github.io/ProxyBand/)
-- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/ProxyBand))
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/ProxyBand)
 
 ---
 
@@ -184,13 +184,13 @@ such as: search for all or individual breeds, also filter by quantity displayed 
 
 ---
 
-## [User application page]((https://oleksandr-ivanchenko.github.io/test-task-abz/)) 
+## [User application page](https://oleksandr-ivanchenko.github.io/test-task-abz/)
 
 This repository is demonstrated User application page. Technologies used - SASS
 (SCSS), HTML, React, Typescript, MaterialUI library, React router package
 
-- **Live Demo:** [User application page]((https://oleksandr-ivanchenko.github.io/test-task-abz/))
-- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/test-task-abz))
+- **Live Demo:** [User application page](https://oleksandr-ivanchenko.github.io/test-task-abz/)
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/test-task-abz)
 
 --- 
 
