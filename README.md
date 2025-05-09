@@ -20,7 +20,7 @@
 ### 🛠️ My technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,sass,git,figma,vscode" />
+ <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,html,css,tailwind,sass,git,figma,vscode,sql" />
 </div>
 
 ---
