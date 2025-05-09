@@ -143,7 +143,7 @@ Solution of visualization of the layout design of the Easy Tech. Technologies us
 HTML5, SCSS, Flexbox, BEM, Responsiveness.
 
 - **Live Demo:** [EasyTech](https://oleksandr-ivanchenko.github.io/EasyTech/)
-- **Code Repository:** [GitHub]()
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/EasyTech)
 
 ---
 
