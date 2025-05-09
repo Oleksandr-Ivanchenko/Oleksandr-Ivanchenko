@@ -129,29 +129,73 @@
 # 🔥 My Projects
 
 ## [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
-A test task project demonstrating frontend development skills.
+Page with loading pictures and animations. Technologies used: Angular, Angular
+Material, Reactive forms, SASS, HTML5
 
 - **Live Demo:** [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
-- **Code Repository:** [GitHub](сюда-ссылку-на-репозиторий)
-- **Design Reference:** [Figma](сюда-ссылку-на-дизайн)
+- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/somplo-test-task))
+ **Design Reference:** [Figma]((https://www.figma.com/design/Nf87SReWiw79RQEbAPml8R/test--Copy-?node-id=1405-1437))
 
 ---
 
 ## [EasyTech](https://oleksandr-ivanchenko.github.io/EasyTech/)
-A modern website implementing clean UI and optimized performance.
+Solution of visualization of the layout design of the Easy Tech. Technologies used:
+HTML5, SCSS, Flexbox, BEM, Responsiveness.
 
 - **Live Demo:** [EasyTech](https://oleksandr-ivanchenko.github.io/EasyTech/)
-- **Code Repository:** [GitHub](сюда-ссылку-на-репозиторий)
-- **Design Reference:** [Figma](сюда-ссылку-на-дизайн)
+- **Code Repository:** [GitHub]()
 
 ---
 
 ## [ProxyBand](https://oleksandr-ivanchenko.github.io/ProxyBand/)
-A stylish and responsive project showcasing advanced CSS techniques.
+This repository is demonstrated User List. In order to create this project, I have
+used the following technology and approaches: HTML5, SCSS, JS, React, React
+Router, Redux Toolkit, React-Redux, Material ui
 
 - **Live Demo:** [ProxyBand](https://oleksandr-ivanchenko.github.io/ProxyBand/)
-- **Code Repository:** [GitHub](сюда-ссылку-на-репозиторий)
-- **Design Reference:** [Figma](сюда-ссылку-на-дизайн)
+- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/ProxyBand))
+
+---
+
+## [CatsApp](https://oleksandr-ivanchenko.github.io/ITeam/) 
+This repository is demonstrated Cats app. Technologies used: Angular, RxJS, SCSS,
+Flexbox, HTML5. Search for pictures of cats in the form of a list with filters, filters
+such as: search for all or individual breeds, also filter by quantity displayed results.
+
+- **Live Demo:** [CatsApp](https://oleksandr-ivanchenko.github.io/ITeam/)
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/ITeam)
+
+---
+
+## [User application page]((https://oleksandr-ivanchenko.github.io/test-task-abz/)) 
+
+This repository is demonstrated User application page. Technologies used - SASS
+(SCSS), HTML, React, Typescript, MaterialUI library, React router package
+
+- **Live Demo:** [User application page]((https://oleksandr-ivanchenko.github.io/test-task-abz/))
+- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/test-task-abz))
+
+--- 
+
+## [Notification page]((https://oleksandr-ivanchenko.github.io/collaborator/)) 
+
+This repository is demonstrated Notification page. Technologies used: React.js,
+React functional components, Sass, Material UI.
+
+- **Live Demo:** [Notification page](https://oleksandr-ivanchenko.github.io/collaborator/)
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/collaborator)
+
+---
+
+## [Museum page]((https://oleksandr-ivanchenko.github.io/Museum/)) 
+
+This repository is demonstrated a possible solution of visualization of the layout
+design of the museum page. Technologies used: HTML5, SCSS, Grid, Flexbox, BEM,
+Responsiveness and cross-browser
+
+- **Live Demo:** [museum page](https://oleksandr-ivanchenko.github.io/Museum/)
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/Museum/tree/develop)
+
 ---
 
 ### 🎉 A little magic
