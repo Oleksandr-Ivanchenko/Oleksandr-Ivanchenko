@@ -125,6 +125,35 @@
 
 ---
 
+---
+# 🔥 My Projects
+
+## [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
+A test task project demonstrating frontend development skills.
+
+- **Live Demo:** [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
+- **Code Repository:** [GitHub](сюда-ссылку-на-репозиторий)
+- **Design Reference:** [Figma](сюда-ссылку-на-дизайн)
+
+---
+
+## [EasyTech](https://oleksandr-ivanchenko.github.io/EasyTech/)
+A modern website implementing clean UI and optimized performance.
+
+- **Live Demo:** [EasyTech](https://oleksandr-ivanchenko.github.io/EasyTech/)
+- **Code Repository:** [GitHub](сюда-ссылку-на-репозиторий)
+- **Design Reference:** [Figma](сюда-ссылку-на-дизайн)
+
+---
+
+## [ProxyBand](https://oleksandr-ivanchenko.github.io/ProxyBand/)
+A stylish and responsive project showcasing advanced CSS techniques.
+
+- **Live Demo:** [ProxyBand](https://oleksandr-ivanchenko.github.io/ProxyBand/)
+- **Code Repository:** [GitHub](сюда-ссылку-на-репозиторий)
+- **Design Reference:** [Figma](сюда-ссылку-на-дизайн)
+---
+
 ### 🎉 A little magic
 
 <img src="https://media1.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="100%" />
