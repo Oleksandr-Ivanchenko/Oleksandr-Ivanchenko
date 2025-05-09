@@ -151,9 +151,8 @@ Page with loading pictures and animations. Technologies used: Angular, Angular
 Material, Reactive forms, SASS, HTML5
 
 - **Live Demo:** [Somplo Test Task](https://oleksandr-ivanchenko.github.io/somplo-test-task/)
-- **Code Repository:** [GitHub]((https://github.com/Oleksandr-Ivanchenko/somplo-test-task))
- **Design Reference:** [Figma]((https://www.figma.com/design/Nf87SReWiw79RQEbAPml8R/test--Copy-?node-id=1405-1437))
-
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/somplo-test-task)
+- **Design Reference:** [Figma](https://www.figma.com/design/Nf87SReWiw79RQEbAPml8R/test--Copy-?node-id=1405-1437)
 ---
 
 ## [EasyTech](https://oleksandr-ivanchenko.github.io/EasyTech/)
@@ -222,6 +221,6 @@ Responsiveness and cross-browser
 
 ---
 
-<!-- Footer или доп. ссылки -->
+
 
 
