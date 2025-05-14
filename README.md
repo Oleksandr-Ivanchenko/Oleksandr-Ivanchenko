@@ -73,6 +73,13 @@ Frontend Developer | Project Manager Experienced in building dynamic, user-frien
       JavaScript Basics
     </a>
   </li>
+
+<li style="margin-bottom: 8px;">
+  <a href="https://static.mate.academy/certificates/production/83110/51017/a6ce27b0-d450-416e-8573-042f4ee23bcd/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
+    Advance JavaScript
+  </a>
+</li>
+
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15299/a4613674-e66a-4ac6-8c90-8f583f3cb988/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
       Git and Terminal
