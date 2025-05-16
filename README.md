@@ -115,6 +115,13 @@ Frontend Developer | Project Manager Experienced in building dynamic, user-frien
       Object Oriented Programming
     </a>
   </li>
+
+ <li style="margin-bottom: 8px;">
+    <a href="https://static.mate.academy/certificates/production/83110/51467/0ce6d3d7-3522-482f-a4fa-ef81c087c445/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
+      Course Fundamentals
+    </a>
+  </li>
+
 </ul>
 
 ---
