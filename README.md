@@ -10,7 +10,7 @@
 
 ### 🚀 About me
 
-Frontend Developer | Project Manager Experienced in building dynamic, user-friendly web applications with JavaScript, TypeScript, React, and Next.js. Passionate about creating scalable and maintainable solutions following SOLID, DRY, and KISS principles.
+Software Engineer | Project Manager Experienced in building dynamic, user-friendly web applications with JavaScript, TypeScript, React, and Next.js. Passionate about creating scalable and maintainable solutions following SOLID, DRY, and KISS principles.
 
 ---
 
