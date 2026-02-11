@@ -138,6 +138,78 @@ Software Engineer | Project Manager Experienced in building dynamic, user-friend
 
 # 🔥 My Projects
 
+Google Sheets + Telegram Automation Bot
+Automation tool for managers that integrates Google Sheets with Telegram.
+
+Automated data synchronization between Google Sheets and Telegram
+
+Implemented notification system for price updates
+
+Reduced manual reporting time for managers
+
+Built using Node.js
+
+---
+AI Audio Call Transcription System
+Developed an AI-powered audio transcription system for company call recordings.
+
+Upload audio files → receive structured text output
+
+Implemented AI-based speech recognition with slang and informal speech detection
+
+Achieved ~95% transcription accuracy, outperforming standard online services
+
+Optimized for business call analysis and documentation
+
+Tech stack: Node.js
+---
+🔥 SmartTender Bot
+
+Tender Processing & Automation Platform
+
+Developed a full-stack automation system for processing tenders with Excel file uploads and real-time data visualization.
+
+🚀 Overview
+
+SmartTender Bot automates tender handling by uploading .xlsx files through a web interface, processing data, and interacting with external platforms via browser automation.
+
+🛠 Key Features
+
+Excel (.xlsx) file upload & parsing
+
+Automated tender interaction via Puppeteer
+
+Real-time data display in the UI
+
+REST API integration between frontend & backend
+
+Secure environment configuration via .env
+
+🧠 Responsibilities
+
+Designed system architecture (Frontend + Backend + Automation layer)
+
+Implemented Excel parsing and validation
+
+Built automation scripts for platform interaction
+
+Developed responsive UI with React + Vite
+
+Integrated file handling using Multer
+
+Configured environment variables for secure credential handling
+
+📦 Tech Stack
+
+Frontend: React, Vite
+
+Backend: Node.js, Express
+
+Automation: Puppeteer
+
+File Processing: Excel (.xlsx)
+
+Other: REST API, Environment configuration (.env)
 ---
 
 ## [onlineCurses](https://oleksandr-ivanchenko.github.io/onlineCurses/)
