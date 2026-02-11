@@ -147,7 +147,7 @@ Implemented notification system for price updates
 
 Reduced manual reporting time for managers
 
-Built using Node.js
+Tech stack: Node.js
 
 ---
 AI Audio Call Transcription System
