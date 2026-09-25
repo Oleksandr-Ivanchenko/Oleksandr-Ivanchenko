@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello! I'm Aleksandr 👋</h1>
 
-<h3 align="center">Software Engineer | JavaScript / TypeScript / React / NextJs / CSS </h3>
+<h3 align="center">Software Engineer | JavaScript / TypeScript / React / NextJs / CSS /C# </h3>
 
 ---
 
@@ -37,9 +37,9 @@ Software Engineer | Project Manager Experienced in building dynamic, user-friend
 - **APIs & Data Formats:** JSON, Fetch
 
 ## Game Development
-- **SDK Integration**
-- **construct 3**
-- **Game Developer Tools**
+- **Engine:** Unity (2D), C#
+- **Architecture:** ScriptableObject-driven data (enemies, towers, waves, levels), object pooling, state-machine level managers
+- **Other:** Phaser + Vite (browser games), Construct 3, SDK Integration
 
 ## Design & UI
 - **Figma**
@@ -48,7 +48,7 @@ Software Engineer | Project Manager Experienced in building dynamic, user-friend
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,js,react,redux,html,css,sass,tailwind,figma,vscode" />
+ <img src="https://skillicons.dev/icons?i=ts,nextjs,js,react,redux,html,css,sass,tailwind,unity,cs,figma,vscode" />
 </div>
 
 
@@ -214,6 +214,16 @@ File Processing: Excel (.xlsx)
 
 Other: REST API, Environment configuration (.env)
 ---
+
+## 🎮 Mutant Lab TD (Unity)
+2D Tower Defense built in **Unity 6 / C#**. Enemies grow toward biome-based bosses; towers are being reworked into hero units with skill trees.
+
+- ScriptableObject-driven data: EnemyData, TowerData/HeroData, WaveData, LevelData
+- Core systems: GameManager, LevelManager (state machine), Spawner, ObjectPooler, AudioManager
+- Multi-level campaign with escalating waves, per-unit roguelike upgrade cards, win/lose flow
+- Tech stack: Unity, C#
+
+- **Code Repository:** [GitHub](https://github.com/Oleksandr-Ivanchenko/kingdom-defense)
 
 ## [onlineCurses](https://oleksandr-ivanchenko.github.io/onlineCurses/)
 
