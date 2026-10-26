@@ -70,20 +70,21 @@ Software Engineer | Project Manager Experienced in building dynamic, user-friend
 </div>
 
 <h3 style="font-size: 24px; margin-bottom: 12px;">📜 Certificates</h3>
+
+<li style="margin-bottom: 8px;">
+  <a href="https://static.mate.academy/certificates/production/83110/160079/e94fd7cf-d6cd-44c2-b06f-1f69b090e6ef/yvanchenko-certificate.pdf?_gl=1*15u8v78*_gcl_au*MTA1ODQ4NDA5Ni4xNzkxOTAxNjE3LjIxMjQ3MDU1MDUuMTc5Mjk5ODQyOC4xNzkyOTk4NTIzLjE3OTk5MzU2NjMuMTc5Mjk5ODQyOC4xNzkyOTk4NTIz" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
+    Full-stack developer
+  </a>
+</li>
+
+
 <ul style="list-style: none; padding-left: 0; font-size: 16px;">
   <li style="margin-bottom: 8px;">
     <a href="https://static.mate.academy/certificates/production/83110/15300/d0f477fe-49f1-4cde-899d-3981b4724201/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
       JavaScript Basics
     </a>
   </li>
-
-
   
-<li style="margin-bottom: 8px;">
-  <a href="https://static.mate.academy/certificates/production/83110/160079/e94fd7cf-d6cd-44c2-b06f-1f69b090e6ef/yvanchenko-certificate.pdf?_gl=1*15u8v78*_gcl_au*MTA1ODQ4NDA5Ni4xNzkxOTAxNjE3LjIxMjQ3MDU1MDUuMTc5Mjk5ODQyOC4xNzkyOTk4NTIzLjE3OTk5MzU2NjMuMTc5Mjk5ODQyOC4xNzkyOTk4NTIz" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
-    Advance JavaScript
-  </a>
-</li>
 
 <li style="margin-bottom: 8px;">
   <a href="https://static.mate.academy/certificates/production/83110/51017/a6ce27b0-d450-416e-8573-042f4ee23bcd/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
