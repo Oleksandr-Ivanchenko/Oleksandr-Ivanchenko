@@ -77,6 +77,14 @@ Software Engineer | Project Manager Experienced in building dynamic, user-friend
     </a>
   </li>
 
+
+  
+<li style="margin-bottom: 8px;">
+  <a href="https://static.mate.academy/certificates/production/83110/160079/e94fd7cf-d6cd-44c2-b06f-1f69b090e6ef/yvanchenko-certificate.pdf?_gl=1*15u8v78*_gcl_au*MTA1ODQ4NDA5Ni4xNzkxOTAxNjE3LjIxMjQ3MDU1MDUuMTc5Mjk5ODQyOC4xNzkyOTk4NTIzLjE3OTk5MzU2NjMuMTc5Mjk5ODQyOC4xNzkyOTk4NTIz" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
+    Advance JavaScript
+  </a>
+</li>
+
 <li style="margin-bottom: 8px;">
   <a href="https://static.mate.academy/certificates/production/83110/51017/a6ce27b0-d450-416e-8573-042f4ee23bcd/yvanchenko-certificate.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007BFF;">
     Advance JavaScript
